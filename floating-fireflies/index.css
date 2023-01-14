@@ -1,0 +1,38 @@
+body {
+  height: 100vh;
+  background: rgb(3, 38, 43);
+  background: rgb(14, 3, 43);
+  background: rgb(10, 2, 32);
+  background: radial-gradient(
+    circle at bottom,
+    rgba(10, 2, 32, 1) 0%,
+    rgba(0, 16, 19, 1) 100%
+  );
+  overflow: hidden;
+}
+
+.firefly {
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  background-color: rgb(246, 230, 10);
+  border-radius: 100%;
+}
+
+@keyframes falling {
+  50% {
+    top: 105vh;
+  }
+  100% {
+    top: -20px;
+  }
+}
+
+@keyframes elevating {
+  50% {
+    top: -20px;
+  }
+  100% {
+    top: 105vh;
+  }
+}
