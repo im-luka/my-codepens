@@ -21,9 +21,23 @@
 ---
 
 ##### 🔻 Minimalist & Responsive Navbar
-> [Live Demo](https://codepen.io/im-luka/pen/gOjoyoq)  
+> [Live Demo](https://codepen.io/im-luka/pen/MWBxgGE)  
 
 ![navbar-gif](https://user-images.githubusercontent.com/46372998/213880657-48056975-f2de-4b3c-a308-c52ea6e5f27f.gif)
+
+---
+
+##### 💭 Guess the Number Game
+> [Live Demo](https://codepen.io/im-luka/pen/gOjoyoq)  
+
+![guess-the-num](https://user-images.githubusercontent.com/46372998/216126637-52606b7a-7ad4-429e-a63d-946ad27108f8.png)
+
+---
+
+##### 🎲 Dice Roll Game
+> [Live Demo](https://codepen.io/im-luka/pen/ZEjPzgo)  
+
+![dice-roll](https://user-images.githubusercontent.com/46372998/216446049-6e82816d-ac08-4030-acae-20c279bc8807.png)
 
 ---
 
