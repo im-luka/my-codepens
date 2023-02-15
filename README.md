@@ -42,7 +42,7 @@
 ---
 
 ##### 💵 Bankist Tracker
-> [Live Demo](todo)  
+> [Live Demo](https://codepen.io/im-luka/pen/GRXgEqv)  
 
 ![bankist-tracker](https://user-images.githubusercontent.com/46372998/219163257-95f40de3-6e4a-47e3-92ab-5cc175bf02dd.png)
 
